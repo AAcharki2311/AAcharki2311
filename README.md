@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying CSE ...
+
 <!--
 **AAcharki2311/AAcharki2311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
