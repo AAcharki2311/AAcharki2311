@@ -2,29 +2,18 @@
 
 ## 🙋‍♂️ About Me
 - I’m currently studying Computer Science and Engineering [CSE] at TU Delft
-- My Interests: Artificial Intelligence || Blockchain Development || Cryptocurrency || Cybersecurity || Data Science ||  Neuroscience
+- My Interests: Artificial Intelligence || Blockchain Development || Cryptocurrency || Cybersecurity || Data Science ||  Neuroscience 
 
-## 📚 Education
-- Bachelor of Computer Science and Engineering
-    - Delft University of Technology
-    - sept 2023 - present  
-- Pre-university (VWO Gymnasium) Graduate
-    - Major:  Science & Technology  + Computer Science + Ancient Greek
-    - Marnix Gymnasium, Rotterdam
-    - aug 2017 - july 2023 
-
-## 🔭 Technical Skills
+## 🔭 (Technical) Skills
 - Programming Languages: Java
 - Web Development: HTML, CSS
 - Frameworks:
   - Spring Boot
   - JavaFX
+- Languages
+    - Dutch
+    - English
  
-## 🗣️ Languages
-- Dutch (Fluent)
-- English (Proficient)
-
-
 ## 📫 Connect with Me
 - Email: acharkiayoub1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ayoub-acharki-3a8bb1279/
