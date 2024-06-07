@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About Me
 - I’m currently studying Computer Science and Engineering [CSE] at TU Delft
-- My Interests: Artificial Intelligence || Blockchain Development || Cryptocurrency || Cybersecurity || Data Science ||  Neuroscience 
+- My Interests: Artificial Intelligence || Blockchain Development || Cybersecurity || Data Science ||  Neuroscience 
 
 ## 🔭 (Technical) Skills
 - Programming Languages: Java
