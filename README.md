@@ -7,9 +7,12 @@
 ## 🔭 (Technical) Skills
 - Programming Languages: Java, Python, Scala
 - Web Development: HTML, CSS
-- Frameworks:
+- Frameworks/Tools:
   - Spring Boot
   - JavaFX
+  - JUnit
+  - Git
+  - Jira (Service Desk)
 - Languages
     - Dutch
     - English
