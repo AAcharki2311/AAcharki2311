@@ -5,14 +5,14 @@
 - My Interests: Artificial Intelligence || Machine Learning || Blockchain Development || Cybersecurity || Data Science ||  Neuroscience 
 
 ## 🔭 (Technical) Skills
-- Programming Languages: Java, Python, Scala
-- Web Development: HTML, CSS
+- Programming Languages: Java, Python, Scala, C++
+- Web Development: HTML, CSS, JavaScript
 - Frameworks/Tools:
   - Spring Boot
   - JavaFX
   - JUnit
   - Git
-  - Jira (Service Desk)
+  - Jira
 - Languages
     - Dutch
     - English
