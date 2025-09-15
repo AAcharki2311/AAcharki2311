@@ -2,20 +2,12 @@
 
 ## 🙋‍♂️ About Me
 - I’m currently studying Computer Science and Engineering [CSE] at TU Delft
-- My Interests: Artificial Intelligence || Machine Learning || Blockchain Development || Cybersecurity || Data Science ||  Neuroscience 
+- My Interests: Computer Science || Artificial Intelligence || Data Science || Software Engineering || Machine Learning || Neuroscience 
 
 ## 🔭 (Technical) Skills
-- Programming Languages: Java, Python, Scala, C++
-- Web Development: HTML, CSS, JavaScript
-- Frameworks/Tools:
-  - Spring Boot
-  - JavaFX
-  - JUnit
-  - Git
-  - Jira
-- Languages
-    - Dutch
-    - English
+- Programming Languages: Java, Python, JavaScript, Scala
+- Frameworks/Tools: React.js, Next.js, Spring Boot, Git, Jira
+- Languages: Dutch, English
  
 ## 📫 Connect with Me
 - Email: acharkiayoub1@gmail.com
